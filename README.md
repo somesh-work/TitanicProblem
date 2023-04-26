@@ -1,1 +1,1 @@
-TinDog Starting Files
+this is a default script
